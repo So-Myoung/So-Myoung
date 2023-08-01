@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So-Myoung&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So-Myoung&hide=html,css&layout=compact&langs_count=10)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=akdmslo84)](https://solved.ac/akdmslo84)
