@@ -1,6 +1,6 @@
 <div align="center">
   
-## 개발 일지 & 블로그 📘
+## 포트폴리오 & 개발 블로그 📘
 <a href="https://married-court-369.notion.site/730678437daa436da5317b83104c6e50?pvs=4" :target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" width = 130px height = 40px/></a>
 <a href="https://velog.io/@so-myoung/series" :target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" width = 130px height = 40px/></a>
 
