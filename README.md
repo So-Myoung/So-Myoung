@@ -48,7 +48,10 @@
 </br>
 
 ## Github Stats 📈
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So-Myoung&show_icons=true&theme=transparent&count-private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-Myoung&hide=html,css,shell,nushell,powershell,batchfile&layout=compact&langs_count=10&count-private=true"/> </div>
+<div> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=So-Myoung&show_icons=true&theme=transparent&count-private=true&card_width=350"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-Myoung&hide=html,css,shell,nushell,powershell,batchfile&layout=compact&langs_count=10&count-private=true&card_width=350"/> 
+</div>
 
 ## Baekjoon Coding Test ✏️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=so_myoung)](https://solved.ac/so_myoung)
