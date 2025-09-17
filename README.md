@@ -1,6 +1,6 @@
 <div align="center">
 
-## 기술 스택
+## Tech Stack
 #### Backend
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
