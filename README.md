@@ -50,14 +50,14 @@
   <br/>
   <br/>
   
-<!-- Light -->
-[![Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=ffffff&color=2563EB&line=1D4ED8&point=3B82F6&area=true&area_color=DBEAFE&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Dark -->
-[![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=0D1117&color=3B82F6&line=2563EB&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=0D1117&color=3B82F6&line=2563EB&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=ffffff&color=2563EB&line=1D4ED8&point=3B82F6&area=true&area_color=DBEAFE&hide_border=true">
+  <img alt="So-Myoung's Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&theme=github-light&area=true&hide_border=true" />
+</picture>
 </div>
-
-
 
 </div>
