@@ -37,20 +37,27 @@
 
 <br/><br/>
 
+## Baekjoon Coding Test
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=so_myoung)](https://solved.ac/so_myoung)
+
+<br/><br/>
+
 ## GitHub Stats
 <div align="center">
   <img 
     width="380"
     src="https://github-readme-stats.vercel.app/api?username=So-Myoung&show_icons=true&theme=transparent&count-private=true"/>
   <br/>
-  <img 
-    width="380"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=So-Myoung&hide=html,css,shell,nushell,powershell,batchfile,assembly,jupyter%20notebook&layout=compact&langs_count=10&count-private=true"/>
+  <br/>
+  
+<!-- Light -->
+[![Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=ffffff&color=2563EB&line=1D4ED8&point=3B82F6&area=true&area_color=DBEAFE&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Dark -->
+[![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=So-Myoung&bg_color=0D1117&color=3B82F6&line=2563EB&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<br/><br/>
 
-## Baekjoon Coding Test
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=so_myoung)](https://solved.ac/so_myoung)
 
 </div>
